@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-07T02:59:59.591Z'
-dateModified: '2016-03-07T02:59:59.306Z'
+datePublished: '2016-03-07T03:03:25.290Z'
+dateModified: '2016-03-07T03:03:10.617Z'
 title: Our Mission
 author: []
+sourcePath: _posts/2016-03-07-our-mission.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-07-our-mission.md
-published: true
 url: our-mission/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Our Mission
