@@ -4,7 +4,7 @@
         <description><![CDATA[Adonis]]></description>
         <link>https://thegrid.ai/adonis/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 03:02:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2016 03:03:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/adonis/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Our Mission]]></title>
@@ -21,11 +21,11 @@
             <pubDate>Mon, 07 Mar 2016 03:02:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Welcome to Adonis!</p>]]></description>
+            <title><![CDATA[Who we are]]></title>
+            <description><![CDATA[<article><h1>Who we are</h1><p>Who We Are</p></article>]]></description>
             <link>https://thegrid.ai/adonis/8d7511f5-9d43-46ef-93cd-06eeb6042697/index.html</link>
             <guid isPermaLink="false">8d7511f5-9d43-46ef-93cd-06eeb6042697</guid>
-            <pubDate>Mon, 07 Mar 2016 02:50:40 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2016 03:03:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
