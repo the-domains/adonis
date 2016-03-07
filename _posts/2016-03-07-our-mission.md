@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-07T03:06:13.950Z'
-dateModified: '2016-03-07T03:05:28.252Z'
+datePublished: '2016-03-07T03:09:03.341Z'
+dateModified: '2016-03-07T03:06:20.919Z'
 title: Our Mission
 author: []
 sourcePath: _posts/2016-03-07-our-mission.md
