@@ -2,6 +2,7 @@ name: Adonis
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.76335
+title: Adonis
 cta:
   domain: null
   bucket: null
