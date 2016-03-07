@@ -1,7 +1,7 @@
 name: Adonis
 favicon: null
-layout_spectrum: 0.3704004653263837
-typography_spectrum: 0.3877373307477683
+layout_spectrum: 1
+typography_spectrum: 0.76335
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.017366721760481596
+  brandStrength: 0.8125
   lightness: 0.40966148814186454
   saturation: 0.588819308206439
   rhythmicContrast: 0.36903921025805175
